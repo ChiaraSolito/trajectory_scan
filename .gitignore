@@ -1,2 +1,4 @@
-data/*
-write/*
+data/paul15
+write/*.csv
+.ipynb_checkpoints
+
