@@ -1,4 +1,5 @@
 data/paul15
 write/*.csv
+write/*.h5ad
 .ipynb_checkpoints
 figure/*.pdf
