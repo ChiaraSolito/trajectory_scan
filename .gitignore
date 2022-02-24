@@ -3,3 +3,4 @@ write/*.csv
 write/*.h5ad
 .ipynb_checkpoints
 figure/*.pdf
+MouseTrajectory_original.ipynb
